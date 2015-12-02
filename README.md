@@ -9,3 +9,4 @@ No need to memorize everything about the box model. Take a look at these great r
 **3.** [Box Style Example](http://jsfiddle.net/flatiron_school/wsNXW/1/)
 
 **4.** [CSS Gradient Generator](http://www.colorzilla.com/gradient-editor/)
+<a href='https://learn.co/lessons/hs-intro-web-design-box-model-resources' data-visibility='hidden'>View this lesson on Learn.co</a>
